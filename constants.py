@@ -1,7 +1,7 @@
 host,port,db,collection = 'localhost',27017,'FY','speed'
 
-VIDEO = "/home/wot-shobhit/shobhit-gupta-training-2024/Finalyear/highwaycars.mp4"
-JSON = "/home/wot-shobhit/shobhit-gupta-training-2024/Finalyear/highway.json"
+VIDEO = "VIDEO LINK"
+JSON = "JSON FILE LINK which contains ROI information in form of coordinates."
 DEBUG_MODE = False
 
 red = (0,0,255)
