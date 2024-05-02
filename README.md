@@ -37,9 +37,10 @@ This repository contains the implementation of a real-time vehicle speed detecti
 3. Provide the path to video file in the constants.py
 4. Download any pretrained YOLOv8 Model.
 5. Create a folder "images" in the same directory as **app.py**
-6. Run the main script: ```python app.py```
-7. Check MongoDB (recommended to install prior to running).
-8. Check "images" folder.
+6. You can upload a frame of your video to **ROBOFLOW** and create ROI (Region of interest) and then download JSON file (like **highway.json**) Check: https://blog.roboflow.com/getting-started-with-roboflow/
+7. Run the main script: ```python app.py```
+8. Check MongoDB (recommended to install prior to running).
+9. Check "images" folder.
 
 ## Sample Output
 
